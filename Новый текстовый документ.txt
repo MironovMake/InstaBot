@@ -1,0 +1,16 @@
+9.6.2021 #arduino	ammount 10
+10.6.2021 ардуино	ammount 10
+12.06.2021 esp8266	ammount 30
+12.06.2021 arduinoDIY	ammount 30
+14.06.2021 arduinoWiFi	ammount 30
+14.06.2021 arduinoI2C	ammount 30
+14.06.2021 arduinoRTC	ammount 30
+1.06.2021 esp32	ammount 30
+13.07.2021 photoshop
+14.07.2021 3d_printing","#3d_print","anete10"
+20.07.2021 "#горы", "#путешествия",горы, путешествия
+22.07.2021 "#pizza","#пицца"
+"#sketchbook","sketchbook","скетчбук"
+30.07 "rgbled","ledControl","l298n","#l298n","esp8266"
+2.08 "esp32","esp32IOT","esp8266IOT","arduinoIOT"
+3.09 ["физика","physic","ньютон","newton"]
